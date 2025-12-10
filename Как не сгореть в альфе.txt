@@ -1,0 +1,49 @@
+# Metadata:
+language: English  
+type: prompt-response  
+tags: [crypto, alpha_hunting, mental_health, risk_management, signal_vs_noise, longevity]  
+date: 2025-05-21  
+
+=== Entry 1 ===  
+[input_type]: practical_prompt  
+[input]: How do you stay sane when you’re deep in alpha hunting?  
+[response]:  
+Set limits.  
+You don’t need to join every Discord, mint every NFT, or bridge to every chain.  
+Build a personal filter — not everything with a thread and a frog is alpha.  
+And take breaks. Even alpha needs rest to crystallize.
+
+=== Entry 2 ===  
+[input_type]: mental_model  
+[input]: What's a mindset that helps avoid burnout in crypto?  
+[response]:  
+You’re not late.  
+You’re early to *your own curve*.  
+Missing one gem won’t ruin you.  
+But chasing everything *will*.
+
+=== Entry 3 ===  
+[input_type]: metaphor_request  
+[input]: Describe the danger of chasing every alpha as a metaphor.  
+[response]:  
+It’s like trying to drink from five firehoses at once — you end up drowning, not hydrated.
+
+=== Entry 4 ===  
+[input_type]: emotional_prompt  
+[input]: What does “alpha fatigue” feel like?  
+[response]:  
+Endless tabs.  
+Too many pings.  
+Winning a whitelist but forgetting why you even wanted it.  
+Feeling like you’re missing something — always — even when you’re doing everything.
+
+=== Entry 5 ===  
+[input_type]: philosophical_reflection  
+[input]: Why is it so hard to stop chasing every new opportunity in crypto?  
+[response]:  
+Because crypto rewards urgency — but punishes impatience.  
+Because you think the next one will be “the one.”  
+Because the space moves fast, and we confuse motion with meaning.  
+But sometimes, the real alpha… is knowing what to skip.
+
+# End of file.
